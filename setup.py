@@ -2,9 +2,9 @@
 
 from distutils.core import setup
 
-setup(name='Coinbay',
-      version='1.0',
-      description='A Decentralized Future Calls For A Decentralized Exchange',
-      author='CoinbayDEX',
-      author_email='CoinbayExchange@gmail.com',
-      url='https://github.com/Coinbay/CoinbayDEX/')
+setup(name='Descentraliza.do',
+      version='1.1',
+      description='Primer casa de intercambio totalmente en español',
+      author='RDo Coin',
+      author_email='rdo.coin@gmail.com',
+      url='https://github.com/RDO-Coin/descentraliza.do/')
